@@ -7,6 +7,7 @@
 (\.|^)adverts\.cz$
 (\.|^)aimg\.sk$
 (\.|^)api-exponea\.o2\.sk$
+(\.|^)api\.exponea\.com$
 (\.|^)bannersector\.sector\.sk$
 (\.|^)imr\.sk$
 (\.|^)inclick\.sk$
