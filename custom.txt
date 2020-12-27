@@ -1,8 +1,8 @@
-(\.|^)aimg\.sk$
-(\.|^)adservice\.google\.cz$
 (\.|^)ad\.sitelement\.sk$
+(\.|^)adservice\.google\.cz$
+(\.|^)aimg\.sk$
 ad.sitelement.sk
-metrics.icloud.com
 metrics.apple.com
-securemetrics.apple.com
+metrics.icloud.com
 radarsubmissions.apple.com
+securemetrics.apple.com
