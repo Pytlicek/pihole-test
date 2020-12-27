@@ -1,6 +1,16 @@
+(\.|^)ad\.seznam\.cz$
 (\.|^)ad\.sitelement\.sk$
+(\.|^)adb\.azet\.sk$
+(\.|^)adexpert\.cz$
+(\.|^)adform\.net$
 (\.|^)adservice\.google\.cz$
+(\.|^)adverts\.cz$
 (\.|^)aimg\.sk$
+(\.|^)api-exponea\.o2\.sk$
+(\.|^)bannersector\.sector\.sk$
+(\.|^)inclick\.sk$
+(\.|^)netsuccess\.sk$
+(\.|^)productads\.sk$
 ad.sitelement.sk
 metrics.apple.com
 metrics.icloud.com
