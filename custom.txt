@@ -2,3 +2,4 @@
 (\.|^)adservice\.google\.cz$
 (\.|^)ad\.sitelement\.sk$
 ad.sitelement.sk
+*.sitelement.sk
