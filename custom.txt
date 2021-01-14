@@ -38,5 +38,6 @@ recycle-static.zoznam.sk
 reklamy.s3.amazonaws.com
 rsz.sk
 securemetrics.apple.com
+trackad.cz
 zachej.sk
 zumail.cz
